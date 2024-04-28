@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{0177F9C8-B3FF-4994-B27E-70B88825C803}" Label="" LastModificationDate="1714299578" Name="pointage" Objects="53" Symbols="10" Target="C#" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{0177F9C8-B3FF-4994-B27E-70B88825C803}" Label="" LastModificationDate="1714085662" Name="pointage" Objects="54" Symbols="14" Target="C#" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1399,8 +1399,8 @@ Shadow=0</a:DisplayPreferences>
 salair (statut)
 salair manager </a:Text>
 <a:CreationDate>1714083789</a:CreationDate>
-<a:ModificationDate>1714299452</a:ModificationDate>
-<a:Rect>((-24986,5001), (-16872,10821))</a:Rect>
+<a:ModificationDate>1714085180</a:ModificationDate>
+<a:Rect>((-25293,3105), (-17179,8925))</a:Rect>
 <a:TextStyle>4130</a:TextStyle>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>16512</a:LineColor>
@@ -1411,9 +1411,9 @@ salair manager </a:Text>
 </o:NoteSymbol>
 <o:AssociationSymbol Id="o7">
 <a:CreationDate>1714082235</a:CreationDate>
-<a:ModificationDate>1714299434</a:ModificationDate>
-<a:Rect>((4197,20663), (17512,22981))</a:Rect>
-<a:ListOfPoints>((4197,21807),(10373,21807),(10373,21837),(17512,21837))</a:ListOfPoints>
+<a:ModificationDate>1714085532</a:ModificationDate>
+<a:Rect>((4299,18135), (17113,20144))</a:Rect>
+<a:ListOfPoints>((4299,18970),(7865,18970),(7865,19309),(17113,19309))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>4194432</a:LineColor>
@@ -1432,9 +1432,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:GeneralizationSymbol Id="o11">
 <a:CreationDate>1714082850</a:CreationDate>
-<a:ModificationDate>1714299450</a:ModificationDate>
-<a:Rect>((-11684,1785), (-10684,18151))</a:Rect>
-<a:ListOfPoints>((-11206,1785),(-11206,4722),(-11162,4722),(-11162,18151))</a:ListOfPoints>
+<a:ModificationDate>1714085662</a:ModificationDate>
+<a:Rect>((-11162,1710), (-9867,13726))</a:Rect>
+<a:ListOfPoints>((-9867,1710),(-9867,4722),(-11162,4722),(-11162,13726))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>7</a:ArrowStyle>
 <a:LineColor>4194432</a:LineColor>
@@ -1452,9 +1452,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:GeneralizationSymbol>
 <o:AssociationSymbol Id="o14">
 <a:CreationDate>1714082985</a:CreationDate>
-<a:ModificationDate>1714299578</a:ModificationDate>
-<a:Rect>((-258,12038), (14807,19538))</a:Rect>
-<a:ListOfPoints>((14807,13212),(9515,13212),(9515,18364),(-258,18364))</a:ListOfPoints>
+<a:ModificationDate>1714085534</a:ModificationDate>
+<a:Rect>((-258,11718), (11864,15940))</a:Rect>
+<a:ListOfPoints>((11864,11718),(11864,13939),(-258,13939))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>4194432</a:LineColor>
@@ -1473,9 +1473,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:AssociationSymbol Id="o17">
 <a:CreationDate>1714085564</a:CreationDate>
-<a:ModificationDate>1714299049</a:ModificationDate>
-<a:Rect>((2207,26038), (16171,28337))</a:Rect>
-<a:ListOfPoints>((16171,27212),(9655,27212),(9655,27163),(2207,27163))</a:ListOfPoints>
+<a:ModificationDate>1714085564</a:ModificationDate>
+<a:Rect>((2207,22738), (16774,24559))</a:Rect>
+<a:ListOfPoints>((16774,24559),(9655,24559),(9655,22738),(2207,22738))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>4194432</a:LineColor>
@@ -1494,9 +1494,9 @@ MULA 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:ClassSymbol Id="o8">
 <a:CreationDate>1714080247</a:CreationDate>
-<a:ModificationDate>1714299045</a:ModificationDate>
+<a:ModificationDate>1714085662</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-23953,13124), (5281,31552))</a:Rect>
+<a:Rect>((-23953,8699), (5281,27127))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
@@ -1519,9 +1519,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o9">
 <a:CreationDate>1714080252</a:CreationDate>
-<a:ModificationDate>1714299426</a:ModificationDate>
+<a:ModificationDate>1714085532</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((15466,18019), (21850,22813))</a:Rect>
+<a:Rect>((15067,15491), (21451,20285))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1542,9 +1542,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o12">
 <a:CreationDate>1714080252</a:CreationDate>
-<a:ModificationDate>1714299450</a:ModificationDate>
+<a:ModificationDate>1714082856</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-22442,-1435), (-8180,2386))</a:Rect>
+<a:Rect>((-21103,-1510), (-6841,2311))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1565,9 +1565,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o15">
 <a:CreationDate>1714082921</a:CreationDate>
-<a:ModificationDate>1714299578</a:ModificationDate>
+<a:ModificationDate>1714085534</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((14068,10266), (21300,15060))</a:Rect>
+<a:Rect>((11125,8772), (18357,13566))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1588,9 +1588,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ClassSymbol>
 <o:ClassSymbol Id="o18">
 <a:CreationDate>1714085374</a:CreationDate>
-<a:ModificationDate>1714299049</a:ModificationDate>
+<a:ModificationDate>1714085528</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((12016,23645), (25198,30387))</a:Rect>
+<a:Rect>((14032,21507), (22732,27275))</a:Rect>
 <a:LineColor>128</a:LineColor>
 <a:FillColor>8637161</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1622,7 +1622,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Employe</a:Code>
 <a:CreationDate>1714080247</a:CreationDate>
 <a:Creator>tahac</a:Creator>
-<a:ModificationDate>1714299554</a:ModificationDate>
+<a:ModificationDate>1714085588</a:ModificationDate>
 <a:Modifier>tahac</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
@@ -2084,7 +2084,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Login</a:Code>
 <a:CreationDate>1714085374</a:CreationDate>
 <a:Creator>tahac</a:Creator>
-<a:ModificationDate>1714299554</a:ModificationDate>
+<a:ModificationDate>1714085588</a:ModificationDate>
 <a:Modifier>tahac</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
@@ -2121,20 +2121,9 @@ LABL 0 Arial,8,N</a:FontList>
 <a:DataType>string</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o61">
-<a:ObjectID>D5A3D3C4-2AC9-470F-ADD9-5378498D82B5</a:ObjectID>
-<a:Name>ID EMP /cle secondaire</a:Name>
-<a:Code>IdEmp/cleSecondaire</a:Code>
-<a:CreationDate>1714299366</a:CreationDate>
-<a:Creator>tahac</a:Creator>
-<a:ModificationDate>1714299418</a:ModificationDate>
-<a:Modifier>tahac</a:Modifier>
-<a:DataType>int</a:DataType>
-<a:Attribute.Visibility>-</a:Attribute.Visibility>
-</o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o62">
+<o:Identifier Id="o61">
 <a:ObjectID>1640E833-E1F9-48DD-BFFB-A83FC9AE6468</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -2148,7 +2137,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o62"/>
+<o:Identifier Ref="o61"/>
 </c:PrimaryIdentifier>
 </o:Class>
 </c:Classes>
@@ -2201,13 +2190,12 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Association3</a:Code>
 <a:CreationDate>1714085564</a:CreationDate>
 <a:Creator>tahac</a:Creator>
-<a:ModificationDate>1714299554</a:ModificationDate>
+<a:ModificationDate>1714085588</a:ModificationDate>
 <a:Modifier>tahac</a:Modifier>
 <a:RoleAMultiplicity>0..1</a:RoleAMultiplicity>
-<a:RoleBMultiplicity>1..1</a:RoleBMultiplicity>
+<a:RoleBMultiplicity>1..*</a:RoleBMultiplicity>
 <a:RoleBNavigability>0</a:RoleBNavigability>
-<a:ExtendedAttributesText>{D1E2D0BE-98BB-4413-890E-9D790F33B4DC},C#,128={4924442A-1CC4-4978-8C47-6FFB5B1F8052},roleAContainer,6=&lt;None&gt;
-{B8A5F791-6EAB-45F1-A2F3-FC70018D8884},roleBContainer,6=&lt;None&gt;
+<a:ExtendedAttributesText>{D1E2D0BE-98BB-4413-890E-9D790F33B4DC},C#,64={4924442A-1CC4-4978-8C47-6FFB5B1F8052},roleAContainer,6=&lt;None&gt;
 
 </a:ExtendedAttributesText>
 <c:Object1>
@@ -2236,7 +2224,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Generalization>
 </c:Generalizations>
 <c:TargetModels>
-<o:TargetModel Id="o63">
+<o:TargetModel Id="o62">
 <a:ObjectID>822FA04F-ADE9-4C22-92D6-B816C1B35359</a:ObjectID>
 <a:Name>C#</a:Name>
 <a:Code>C#</a:Code>
@@ -2251,7 +2239,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Shortcut Ref="o3"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o64">
+<o:TargetModel Id="o63">
 <a:ObjectID>4C8F3C09-3C8C-4571-A443-16C5B3F993DF</a:ObjectID>
 <a:Name>WSDL for .NET</a:Name>
 <a:Code>WSDLDotNet</a:Code>
